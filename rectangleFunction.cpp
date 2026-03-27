@@ -1,3 +1,4 @@
+//Комментарий функции для прямоугольника
 #include <cmath>
 int rectanglePerimeter(int firstEdge, int secondEdge){
 	return firstEdge*2+secondEdge*2;
